@@ -1,0 +1,4 @@
+﻿student_id,student_name,student_father_name,student_grade,student_image,student_birth,student_email,student_number,student_parent_number,student_address
+123456,علي,محمد,2,,1/1/2000,student@mail.com,5321321,2132131,جده
+45654,عماد,محمد,4,,1/1/2003,student1@mail.com,5321321,131313131,مكة
+465456,رافت,محمد,3,,1/1/2005,student2@mail.com,5321321,3131212,المدينة
