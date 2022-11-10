@@ -1,0 +1,12 @@
+.container-male{
+background-color: cornsilk;
+direction: rtl;
+text-align: center;
+padding: 10px;
+color: red;
+
+}
+
+.ui-autocomplete-loading {
+    background: white url("./ui-anim_basic_16x16.gif") right center no-repeat;
+  }
